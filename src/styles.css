@@ -78,7 +78,7 @@ button:hover { background: #1d4ed8; }
 .fade-in {
   animation: fadeIn 0.4s ease-out;
 }
-//оформление ошибок
+/* оформление ошибок */
 .load-error { color: #b91c1c; }
 .load-error button { margin-top: 8px; }
 #errorMessage { color: #b91c1c; }
